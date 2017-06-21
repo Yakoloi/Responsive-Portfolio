@@ -390,9 +390,6 @@ input[type=submit] {
 
 @media screen and (min-width: 641px) and (max-width: 768px) {
 
-  h1, h2, h3 {
-    color:blue;
-  }
 
   .container {
     width: 100%;
@@ -512,9 +509,6 @@ input[type=submit] {
 
 /*mediaquery width 980*/
 @media screen and (min-width: 769px) and (max-width: 980px) {
-  h1, h2, h3 {
-    color:green;
-  }
 
   .container {
     width: 100%;
